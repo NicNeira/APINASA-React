@@ -2,7 +2,7 @@
   "name": "nasa-api",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nicneira.github.io/APINASA-React",
+  "homepage": "https://nicneira.github.io/apinasa-react",
   "dependencies": {
     "@picocss/pico": "^1.5.5",
     "@testing-library/jest-dom": "^5.16.5",
